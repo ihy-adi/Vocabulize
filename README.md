@@ -30,6 +30,8 @@ Entertainment and Casual Gaming: One primary motivation for creating Vocabulize 
 
 
 Flowchart:
+
+
 <img width="532" alt="image" src="https://github.com/ihy-adi/Vocabulize/assets/126938382/6d0ec0bb-9758-413a-a76a-aa7ef16aab4c">
 
 
